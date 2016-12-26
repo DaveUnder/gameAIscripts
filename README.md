@@ -1,2 +1,0 @@
-# gameAIscripts
-game AI scrpits
